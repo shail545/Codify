@@ -177,7 +177,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Made with ❤️ Md Samsad Alam © 2024 Codify</div>
+          <div className="text-center">Made with ❤️ Shail © 2025 Codify</div>
         </div>
       </div>
     </div>
